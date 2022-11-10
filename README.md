@@ -3,24 +3,19 @@
 
 ## Описание проектов 
 
-| Название проекта | Описание проекта | Используемые библиотеки |
-| :-------------------- | :--------------------- |:---------------------------:|
-| Музыка больших городов | 1. Big cities music | pandas |
-| Исследование надёжности заёмщиков | 2. Credit risk evaluation | pandas |
-| Исследование объявлений о продаже квартир | 3. Apartments sale ads research | matplotlib, numpy, pandas, seaborn |
-| Определение перспективного тарифа для телеком-компании | 4. Promising tariff for a telecom company | math, matplotlib, numpy, pandas, scipy |
-| Анализ данных о продажах видео-игр | 5. Video-games sales analysis | math, matplotlib, numpy, pandas, scipy, seaborn |
-| Рекомендация тарифов | 6. Recommendation of tariffs | matplotlib, pandas, seaborn, sklearn |
-| Отток клиентов | 7. Bank customer churn | matplotlib, numpy, pandas, re, seaborn, sklearn, xgboost , sklearn |
-| Выбор локации для скважины | 8. Choosing a location for a well | matplotlib, numpy, pandas, re, seaborn, sklearn |	
-| Сборный проект 2 | 9. Gold recovery | pandas |
-| Защита персональных данных клиентов | 10. Client personal data protection | pandas |
-| Определение стоимости автомобилей | 11. Car price determination | pandas |
-| Прогнозирование заказов такси | 12. Taxi orders forecast | pandas |
-| Проект для «Викишоп» | 13.  | pandas |
-| Выпускной проект | 13.  | pandas |
-
-			
-						
-			
-			
+| # | Название проекта | Описание проекта | Используемые библиотеки |
+| :-------------------- | :-------------------- | :--------------------- |:---------------------------:|
+| 1 | [Музыка больших городов](https://github.com/MariaPyat/Yandex_DS/blob/main/01_Big%20cities%20music/Музыка%20больших%20городов.ipynb "Музыка больших городов") | Необходимо на основании анализа данных, предоставленных Яндекс.Музыка, сравнить поведение и предпочтения пользователей из Москвы и Санкт-Петербурга. | pandas |
+| 2 | [Исследование надёжности заёмщиков](https://github.com/MariaPyat/Yandex_DS/blob/main/02_Credit%20risk%20evaluation/Исследование%20надёжности%20заёмщиков.ipynb "Исследование надёжности заёмщиков")| На основании анализа статистических данных о платежеспособности клиентов, предоставленных кредитным отделом банка, необходимо определить, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. | pandas |
+| 3 | [Исследование объявлений о продаже квартир](https://github.com/MariaPyat/Yandex_DS/blob/main/03_Apartments%20sale%20ads%20research/Исследование%20объявлений%20о%20продаже%20квартир.ipynb "Исследование объявлений о продаже квартир") | Необходимо на основе анализа данных с архивом объявлений о продаже квартир в Санкт-Петербурге, предоставленных Яндекс Недвижимость, научиться определять рыночную стоимость объектов недвижимости. | matplotlib, numpy, pandas, seaborn |
+| 4 | [Определение перспективного тарифа для телеком-компании](https://github.com/MariaPyat/Yandex_DS/blob/main/04_Determination%20of%20a%20tariff%20for%20a%20telecom%20company/Определение%20перспективного%20тарифа%20для%20телеком.ipynb "Определение перспективного тарифа для телеком-компании") | С использованием данных о поведении пользователей, предоставленных компанией-оператором сотовой связи, необходимо проанализировать прибыльность тарифов. | math, matplotlib, numpy, pandas, scipy |
+| 5 | Анализ данных о продажах видео-игр | 5. Video-games sales analysis | math, matplotlib, numpy, pandas, scipy, seaborn |
+| 6 | Рекомендация тарифов | 6. Recommendation of tariffs | matplotlib, pandas, seaborn, sklearn |
+| 7 | Отток клиентов | 7. Bank customer churn | matplotlib, numpy, pandas, re, seaborn, sklearn, xgboost , sklearn |
+| 8 | Выбор локации для скважины | 8. Choosing a location for a well | matplotlib, numpy, pandas, re, seaborn, sklearn |	
+| 9 | Сборный проект 2 | 9. Gold recovery | pandas |
+| 10 | Защита персональных данных клиентов | 10. Client personal data protection | pandas |
+| 11 | Определение стоимости автомобилей | 11. Car price determination | pandas |
+| 12 | Прогнозирование заказов такси | 12. Taxi orders forecast | pandas |
+| 13 | Проект для «Викишоп» | 13.  | pandas |
+| 14 | Выпускной проект | 13.  | pandas |
